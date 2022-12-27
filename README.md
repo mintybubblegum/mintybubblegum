@@ -1,3 +1,4 @@
+<div align="center">
 ### Hi there 👋
 
 <!--
@@ -56,3 +57,4 @@ Here are some ideas to get you started:
 - Kanban Methodology: Trello
 - Agile Methodology
 - SCRUM Methodology
+</div>
