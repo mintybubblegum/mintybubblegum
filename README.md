@@ -1,6 +1,7 @@
 <div align="center">
 ### Hi there 👋
-  
+
+<img src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" width=20%>
 <img src="https://octodex.github.com/images/yogitocat.png" width=50%>
 
 📚 Frameworks, Platforms and Libraries
