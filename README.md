@@ -22,10 +22,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-Tailwind-eed718">
 <img src="https://img.shields.io/badge/-JavaScript-ff69b4?style=flat&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/-JSON-red">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/-DrawSQL-9cf">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-DrawSQL-FFFFFF">
 <br>
+<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=9cf">
 <img src="https://img.shields.io/badge/-PHPVanilla-success">
 <img src="https://img.shields.io/badge/-phpMyAdmin-lightgrey">
 <img src="https://img.shields.io/badge/-Laravel-fuchsia">
@@ -49,3 +50,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
  -->
 </div>
+
+### SDLC Methodologies
+
+- Kanban Methodology: Trello
+- Agile Methodology
+- SCRUM Methodology
