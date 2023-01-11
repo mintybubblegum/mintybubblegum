@@ -1,9 +1,9 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hey coders, I'm Noa!</h1>
 
-                                         - Junior Full-Stack Web Developer
-                                         - Working with Agile & SCRUM Methodologies, clean code, TDD & MVC.
-                                         - Currently learning 🔥 Laravel
-                                         - Future frameworks & libraries to be learned in the upcoming months 🚀
+                                       - Junior Full-Stack Web Developer
+                                       - Working with Agile & SCRUM Methodologies, clean code, TDD & MVC.
+                                       - Currently learning 🔥 Laravel
+                                       - Future frameworks & libraries to be learned in the upcoming months 🚀
 
 <img align="right" src="https://octodex.github.com/images/yogitocat.png" width=25%>
 
@@ -21,7 +21,7 @@
   <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
   <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
   </div>
-  
+  <br>
 ### 💾🎨💻 Database, Design and Developer Forums
 
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
