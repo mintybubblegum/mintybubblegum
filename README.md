@@ -3,7 +3,8 @@
                                    - I'm a Junior Full-Stack Web Developer
                                    - Working with Agile & SCRUM Methodologies, clean code, TDD & MVC.
                                    - Currently learning 🔥 Laravel
-                   *** Future frameworks & libraries to be learned in the upcoming months 🚀 Java, React, Angular ***
+                                   
+                ⭐⭐⭐ Future frameworks & libraries to be learned in the upcoming months 🚀 Java, React, Angular ⭐⭐⭐
 
 <img align="right" src="https://octodex.github.com/images/yogitocat.png" width=25%>
 
