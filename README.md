@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hey coders, I'm Noa!</h1>
+<h1><img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hey coders, I'm Noa!</h1>
 
 <img align="right" src="https://octodex.github.com/images/yogitocat.png" width=25%>
 
