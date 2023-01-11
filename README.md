@@ -1,10 +1,9 @@
-<div align="center">
-## Hi there 👋
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hey coders, I'm Noa!
 
 <img align="right" src="https://octodex.github.com/images/yogitocat.png" width=25%>
 
-<div align="left">
-## 📚 Frameworks, Platforms and Libraries
+
+### 📚 Frameworks, Platforms and Libraries
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -18,6 +17,7 @@
   ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-lightgrey?style=for-the-badge&logo=phpMyAdmin)
   ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+  
 
 ### 💾🎨💻 Database, Design and Developer Forums
 
