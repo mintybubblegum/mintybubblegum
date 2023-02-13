@@ -1,10 +1,10 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hey coders, It's Noa!</h1>
 
-                                   - I'm a Full-Stack Web Developer
-                                   - Working with Agile & SCRUM Methodologies, clean code, TDD & MVC.
-                                   - Currently learning 🔥 Vue
+                              - I'm a Full-Stack Web Developer
+                              - Working with Agile & SCRUM Methodologies, clean code, TDD & MVC.
+                              - Currently learning 🔥 Vue
                                    
-                ⭐⭐⭐ Future frameworks & libraries to be learned in the upcoming months 🚀 Java, React, Angular ⭐⭐⭐
+           ⭐⭐⭐ Future frameworks & libraries to be learned in the upcoming months 🚀 Java, React, Angular ⭐⭐⭐
 
 <img align="right" src="https://octodex.github.com/images/yogitocat.png" width=25%>
 
