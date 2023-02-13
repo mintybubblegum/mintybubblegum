@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hey coders, It's Noa!</h1>
 
-                                   - I'm a Junior Full-Stack Web Developer
+                                   - I'm a Full-Stack Web Developer
                                    - Working with Agile & SCRUM Methodologies, clean code, TDD & MVC.
                                    - Currently learning 🔥 Laravel
                                    
