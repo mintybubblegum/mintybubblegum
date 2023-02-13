@@ -2,7 +2,7 @@
 
                                    - I'm a Full-Stack Web Developer
                                    - Working with Agile & SCRUM Methodologies, clean code, TDD & MVC.
-                                   - Currently learning 🔥 Laravel
+                                   - Currently learning 🔥 Vue
                                    
                 ⭐⭐⭐ Future frameworks & libraries to be learned in the upcoming months 🚀 Java, React, Angular ⭐⭐⭐
 
