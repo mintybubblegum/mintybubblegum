@@ -2,9 +2,8 @@
 
                               - I'm a Full-Stack Web Developer
                               - Working with Agile & SCRUM Methodologies, clean code, TDD & MVC.
-                              - Currently learning 🔥 Vue & React
+                              - Currently learning 🔥 React & Java
                                    
-           ⭐⭐⭐ Future frameworks & libraries to be learned in the upcoming months 🚀 Java & Angular ⭐⭐⭐
 
 <img align="right" src="https://octodex.github.com/images/yogitocat.png" width=25%>
 
