@@ -2,7 +2,7 @@
 
                               - I'm a Full-Stack Web Developer
                               - Working with Agile & SCRUM Methodologies, clean code, TDD & MVC.
-                              - Currently learning 🔥 Angular
+                              - Currently learning 🔥 Angular, Javascript, SQL &HTML5 + CSS3 advanced
                                    
 
 <img align="right" src="https://octodex.github.com/images/yogitocat.png" width=25%>
